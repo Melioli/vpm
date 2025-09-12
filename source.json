@@ -9,11 +9,11 @@
     },
     "description":"HoyoToon VPM Packages",
     "infoLink":{
-        "url":"https://github.com/Hoyotoon/vpm",
-        "text":"View on GitHub"
+        "url":"https://discord.gg/hoyotoon",
+        "text":"Join the Discord"
     },
-    "bannerUrl":"https://hoyotoon.com/images/HoyoToonBannerLite.png",
+    "bannerUrl":"banner.png",
     "githubRepos":[
         "Hoyotoon/HoyoToon"
-    ],
+    ]
 }
